@@ -37,7 +37,7 @@ Simulating the responses for nonlinear systems to study the nonlinear behavior: 
 - Drawing the phase portrait together with stable and unstable points.
 
 ## Third Home Assignment
-Implementing some practical tasks regarding** Lyapunov Direct method** and determining **local and global stability**. Estimating **Regions of Attraction**, study **Robustness Analysis**,** Convergence Rates**. and **Control Design Based on Lyapunov Direct Method**.
+Implementing some practical tasks regarding **Lyapunov Direct method** and determining **local and global stability**. Estimating **Regions of Attraction**, study **Robustness Analysis**, **Convergence Rates**. and **Control Design Based on Lyapunov Direct Method**.
 
 
 ## Term Project
