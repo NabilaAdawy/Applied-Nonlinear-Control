@@ -19,7 +19,7 @@ In general you will get the set of tools that allow you to go deeper both inside
 Simulating the responses for nonlinear systems to study the nonlinear behavior: Multiple equilibrium points, Oscillations and Limit Cycles, Bifurcations, Chaos.
 
 ## Second Home Assignment
-#####Implementing some practical tasks regarding Phase Plane Analysis: 
+##### Implementing some practical tasks regarding Phase Plane Analysis: 
 - Concepts of Phase Plane Analysis:
   - Phase Portraits.
   - Singular Points.
@@ -30,7 +30,7 @@ Simulating the responses for nonlinear systems to study the nonlinear behavior: 
 - Phase Plane Analysis of Nonlinear Systems.
 - Existence of Limit Cycles.
 
-#####Implement software routine that will implement the Lyapunov linearization method including:
+##### Implement software routine that will implement the Lyapunov linearization method including:
 - Solving for equlibrium
 - Symbolical linearization
 - Checking for the stability of each equlibrium
